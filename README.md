@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0015-3sum) |
 | [0135-candy](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0015-3sum) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
