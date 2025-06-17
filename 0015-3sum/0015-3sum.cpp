@@ -5,7 +5,7 @@ public:
         vector<vector<int>> ans;
         int n=arr.size();
         for(int i=0;i<n;i++){
-            if(i==0 || arr[i]!=arr[i-1]){
+            if(i>0 && arr[i]==arr[i-1]) continue;
                int j=i+1;int k=n-1;
                while(j<k){
                    if(arr[i]+arr[j]+arr[k]==0){
@@ -20,8 +20,7 @@ public:
                    
                }
                    
-           }
-           else continue;
+           
            
         }
         return ans;
