@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0274-h-index) |
 | [0724-find-pivot-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
 |  |
