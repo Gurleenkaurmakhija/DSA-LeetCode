@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0274-h-index) |
 | [0724-find-pivot-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0015-3sum) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0274-h-index) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Combinatorics
