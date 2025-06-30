@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0274-h-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0724-find-pivot-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0274-h-index) |
+| [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
