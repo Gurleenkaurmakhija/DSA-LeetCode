@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -202,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
