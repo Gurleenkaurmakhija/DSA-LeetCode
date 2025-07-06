@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
