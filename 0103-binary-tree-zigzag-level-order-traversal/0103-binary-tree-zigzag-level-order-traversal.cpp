@@ -28,8 +28,9 @@ public:
                 if(curr->left)q.push(curr->left);
                 if(curr->right)q.push(curr->right);
             }
+            
+            if(level%2==1)reverse(temp.begin(),temp.end());
             level++;
-            if(level%2==0)reverse(temp.begin(),temp.end());
             ans.push_back(temp);
         }
         return ans;
