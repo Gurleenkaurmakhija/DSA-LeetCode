@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -207,8 +208,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
