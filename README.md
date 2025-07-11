@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
