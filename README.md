@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
@@ -195,12 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
