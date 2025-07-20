@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1894-merge-strings-alternately](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Counting
 |  |
 | ------- |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
