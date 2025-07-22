@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1813-maximum-erasure-value](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
