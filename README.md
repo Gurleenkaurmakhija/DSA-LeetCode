@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
