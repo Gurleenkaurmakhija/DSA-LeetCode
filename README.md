@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
