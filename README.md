@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0056-merge-intervals) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0135-candy) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0143-reorder-list) |
