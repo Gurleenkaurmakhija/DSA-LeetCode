@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0826-soup-servings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0826-soup-servings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
