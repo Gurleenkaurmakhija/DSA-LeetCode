@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0274-h-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0867-new-21-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
