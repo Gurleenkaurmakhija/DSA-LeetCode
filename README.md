@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
