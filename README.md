@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0229-majority-element-ii) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Gurleenkaurmakhija/DSA-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
